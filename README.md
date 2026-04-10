@@ -57,9 +57,5 @@ MIZCANSCRIPTS | Terminal Black Aesthetic
 ---
 
 <p align="center">
-  <span style="color: #333;">_________________________________</span>
-</p>
-
-<p align="center">
-  <span style="color: #555; font-family: monospace;">keep scripting · keep evolving</span>
+  <span style="color: #555; font-family: monospace;">dont give up on something, just keep scripting · keep evolving</span>
 </p>
