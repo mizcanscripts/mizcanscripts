@@ -1,91 +1,90 @@
 <!---
-🎨 Custom GitHub Profile README for mizcanscripts
+GLITCH AESTHETIC PROFILE | mizcanscripts
 -->
 
-<!-- WIDE BANNER WITH LIQUID GLASS EFFECT -->
-<div align="center" width="100%">
-  <div style="position: relative; width: 100%; border-radius: 20px; background: linear-gradient(135deg, rgba(0,255,170,0.1) 0%, rgba(0,255,170,0.05) 100%); padding: 4px;">
-    <div style="border-radius: 18px; overflow: hidden; backdrop-filter: blur(2px);">
-      <img src="https://i.pinimg.com/originals/9e/4e/6d/9e4e6dfc6fa0c5aa7831541c6333bc8c.gif" width="100%" height="180" style="object-fit: cover; display: block;">
+<!-- WIDE LIQUID GLASS BANNER -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0.01) 100%); padding: 2px; border-radius: 28px; width: 100%;">
+    <div style="border-radius: 26px; overflow: hidden; backdrop-filter: blur(3px);">
+      <img src="https://i.pinimg.com/originals/9e/4e/6d/9e4e6dfc6fa0c5aa7831541c6333bc8c.gif" width="100%" height="200" style="object-fit: cover; filter: brightness(0.7) contrast(1.1);">
     </div>
   </div>
 </div>
 
-<!-- CIRCLE PFP - Centered below banner -->
+<!-- CIRCLE PFP -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/210978990?v=4" width="130" height="130" style="border-radius: 50%; border: 4px solid rgba(0,255,170,0.6); box-shadow: 0 0 20px rgba(0,255,170,0.3); margin-top: -65px; background: #0a0a0a; object-fit: cover;">
+  <img src="https://avatars.githubusercontent.com/u/210978990?v=4&s=200" width="130" height="130" style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.15); box-shadow: 0 0 35px rgba(0,0,0,0.6); margin-top: -65px; background: #000000; object-fit: cover;">
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- GLITCH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Mizumaru;aka+mizcanscripts;Roblox+Script+Developer;YouTube+%40mizuscripts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=550&height=60&lines=%3E+Mizumaru;%3E+mizcanscripts;%3E+Roblox+Developer;%3E+YouTube+%40mizuscripts" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- STATIC GLITCH TEXT UNDERNEATH (manual glitch effect) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mizcanscripts&color=00FFAA&style=flat-square&label=Profile+Views">
+  <span style="font-family: 'Space Grotesk', monospace; font-size: 13px; letter-spacing: 2px; color: #aaa; text-shadow: 2px 0 0 rgba(255,0,0,0.3), -2px 0 0 rgba(0,0,255,0.3);">
+    // SCRIPTING THE MATRIX //
+  </span>
+</p>
+
+<!-- BADGES - Minimal black style -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mizcanscripts&color=555555&style=flat-square&label=VISITORS&abbreviated=true">
   <a href="https://youtube.com/@mizuscripts">
-    <img src="https://img.shields.io/badge/YouTube-@mizuscripts-FF0000?logo=youtube&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/YOUTUBE-@mizuscripts-000000?style=flat-square&logo=youtube&logoColor=white&color=111111">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Roblox%20Development-00A2FF?style=flat-square&logo=roblox&logoColor=white">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## // ABOUT
 
-Hey! I'm **Mizumaru** — but you know me as **mizcanscripts**.
+<span style="color: #ccc;">> Mizumaru</span> <span style="color: #555;">// creator behind mizcanscripts</span>
 
-- 🎮 Creating **Roblox scripts** (modules, tools, game systems)
-- 📺 Watch me on [YouTube @mizuscripts](https://youtube.com/@mizuscripts)
-- 💻 Sharing clean, reusable Lua code
-- 🚀 Helping devs level up their scripting game
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mizcanscripts&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&border_color=00FFAA&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizcanscripts&theme=dark&background=0a0a0a&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&border=00FFAA&border_radius=10" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizcanscripts&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FFAA&text_color=ffffff&border_color=00FFAA&border_radius=10" width="45%" />
-</div>
+<span style="color: #00FFAA80;">[ roblox development ]</span> <span style="color: #aaa;">→ modules · tools · game systems</span>
+<span style="color: #00FFAA80;">[ content ]</span> <span style="color: #aaa;">→ youtube.com/@mizuscripts</span>
+<span style="color: #00FFAA80;">[ focus ]</span> <span style="color: #aaa;">→ clean lua · reusable code · dev education</span>
 
 ---
 
-## 🛠️ Tech Stack
+## // STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mizcanscripts&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=555555&text_color=aaaaaa&border_color=222222&border_radius=12&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizcanscripts&theme=dark&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&border=222222&border_radius=12" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizcanscripts&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&border_color=222222&border_radius=12" width="45%" />
+</div>
+
+---
+
+## // TECH
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <code style="color: #aaa;">LUA</code>  
+  <code style="color: #aaa;">ROBLOX STUDIO</code>  
+  <code style="color: #aaa;">GIT</code>  
+  <code style="color: #aaa;">VSCODE</code>
 </p>
 
 ---
 
-## 📌 Featured
+## // CONNECT
 
-> *Coming soon — my best Roblox modules and tools*
-
----
-
-## 📫 Connect With Me
-
-| Platform | Link |
-|----------|------|
-| 🎥 YouTube | [@mizuscripts](https://youtube.com/@mizuscripts) |
-| 🐙 GitHub | [@mizcanscripts](https://github.com/mizcanscripts) |
+<p align="center">
+  <a href="https://youtube.com/@mizuscripts" style="color: #aaa; text-decoration: none;">[ YOUTUBE ]</a>  
+  <a href="https://github.com/mizcanscripts" style="color: #aaa; text-decoration: none;">[ GITHUB ]</a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <span style="color: #333; font-family: monospace; font-size: 12px;">{ keep scripting · keep evolving }</span>
 </div>
 
 <div align="center">
-  <i>✦ Keep coding, keep creating — Mizumaru ✦</i>
+  <span style="color: #1a1a1a;">________</span>
 </div>
