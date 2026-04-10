@@ -4,7 +4,7 @@ MIZCANSCRIPTS | Terminal Black Aesthetic
 
 <!-- WIDE GLITCH BACKGROUND -->
 <div align="center">
-  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="220" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
+  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="250" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
 </div>
 
 <!-- LINUX TERMINAL TYPING WITH THICK CURSOR -->
