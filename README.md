@@ -6,7 +6,7 @@ GLITCH AESTHETIC PROFILE | mizcanscripts
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0.01) 100%); padding: 2px; border-radius: 28px; width: 100%;">
     <div style="border-radius: 26px; overflow: hidden; backdrop-filter: blur(3px);">
-      <img src="https://i.pinimg.com/originals/9e/4e/6d/9e4e6dfc6fa0c5aa7831541c6333bc8c.gif" width="100%" height="200" style="object-fit: cover; filter: brightness(0.7) contrast(1.1);">
+      <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="200" style="object-fit: cover; filter: brightness(0.7) contrast(1.1);">
     </div>
   </div>
 </div>
