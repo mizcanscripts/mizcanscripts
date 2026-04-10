@@ -13,7 +13,7 @@
 
 <!-- CIRCLE PFP - Centered below banner -->
 <p align="center">
-  <img src="https://github.com/mizcanscripts/mizcanscripts/blob/main/avatar.png?raw=true" width="130" height="130" style="border-radius: 50%; border: 4px solid rgba(0,255,170,0.6); box-shadow: 0 0 20px rgba(0,255,170,0.3); margin-top: -65px; background: #0a0a0a; object-fit: cover;">
+  <img src="https://avatars.githubusercontent.com/u/210978990?v=4" width="130" height="130" style="border-radius: 50%; border: 4px solid rgba(0,255,170,0.6); box-shadow: 0 0 20px rgba(0,255,170,0.3); margin-top: -65px; background: #0a0a0a; object-fit: cover;">
 </p>
 
 <!-- TYPING ANIMATION -->
