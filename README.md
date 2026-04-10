@@ -4,7 +4,7 @@ All Belong 2 @mizu-dump | Theme By @mizcanscripts
 
 <!-- WIDE BACKGROUND -->
 <div align="center">
-  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="420" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
+  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
 </div>
 
 <!-- LINUX TERMINAL TYPING WITH THICK CURSOR -->
@@ -57,5 +57,5 @@ All Belong 2 @mizu-dump | Theme By @mizcanscripts
 ---
 
 <p align="center">
-  <span style="color: #555; font-family: monospace;"> dont give up on something, just keep scripting · keep evolving</span>
+  <span style="color: #555; font-family: monospace;"> **dont give up on something, just keep scripting · keep evolving**</span>
 </p>
