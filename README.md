@@ -40,8 +40,7 @@
 
 ### About Me
 
-I love creating interesting lua scripts for **MZXHUB**
-I currently focused on my hub, and website & bot hosting and i currently making a Roblox game. Check it out!
+I love creating interesting lua scripts for **MZXHUB** and I currently working on my hub, and i managed my website & bot hosting and i currently making a Roblox game. Check it out!
 
 <p align="center">
    <i>"huss valley ra ra ra"</i>
