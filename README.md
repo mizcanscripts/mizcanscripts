@@ -2,6 +2,8 @@
   <img src="https://i.pinimg.com/736x/01/f6/76/01f6762b8642bd39a18c4ac3b7aa3b77.jpg" width="100%" height="400" style="object-fit: cover; filter: brightness(1.1) contrast(1.3); border-radius: 20px 20px 0 0; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
 </div>
 
+**MZXHUB**
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
 </p>
