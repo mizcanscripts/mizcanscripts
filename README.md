@@ -12,6 +12,9 @@ i will haunt u ;3
   MZXHUB
 </h1>
 
+**MZXHUB**  
+The Ultimate Roblox Script Hub. Better Than Anything.
+
 <p align="center">
   <b>Lua Coder • Script Developer</b><br>
   <a href="https://discord.com/users/1381844366284423340">
@@ -19,28 +22,16 @@ i will haunt u ;3
   </a>
 </p>
 
-**MZXHUB**  
-The Ultimate Roblox Script Hub. Better Than Anything.
-
----
-
 ### About Me
 
-> I create and share Lua scripts for Roblox.<br>
-> Focused on building powerful hubs, obfuscators, and bypass tools.
-
-**💻 Languages:** Lua (Roblox Luau)<br>
-**🧩 Focus:** Script development, hubs, obfuscation, and delivery systems
-
----
+I create and share Lua scripts for Roblox.
+Focused on building powerful hubs, obfuscators, and bypass tools.
 
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dex4tw&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ### Socials
 
@@ -56,8 +47,6 @@ The Ultimate Roblox Script Hub. Better Than Anything.
   </a>
 </p>
 
----
-
 ### Community
 
 <p align="center">
@@ -66,8 +55,44 @@ The Ultimate Roblox Script Hub. Better Than Anything.
   </a>
 </p>
 
----
-
 <p align="center">
   <i>"im goated"</i>
 </p>
+
+<script>
+// Termux-style typing animation
+const phrases = [
+  "I create and share Lua scripts for Roblox.",
+  "Focused on building powerful hubs, obfuscators, and bypass tools."
+];
+
+let i = 0, j = 0, deleting = false;
+const textEl = document.createElement('div');
+textEl.style.cssText = 'font-family:monospace;font-size:18px;color:#ddd;white-space:pre;margin:20px 0;';
+document.querySelectorAll('p')[1].insertAdjacentElement('afterend', textEl);
+
+function type() {
+  const phrase = phrases[i];
+  if (!deleting) {
+    textEl.textContent = phrase.slice(0, j);
+    if (j === phrase.length) {
+      deleting = true;
+      setTimeout(type, 2200);
+      return;
+    }
+    j++;
+    setTimeout(type, 45);
+  } else {
+    textEl.textContent = phrase.slice(0, j);
+    if (j === 0) {
+      deleting = false;
+      i = (i + 1) % phrases.length;
+      setTimeout(type, 400);
+      return;
+    }
+    j--;
+    setTimeout(type, 22);
+  }
+}
+type();
+</script>
