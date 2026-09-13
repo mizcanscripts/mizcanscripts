@@ -1,12 +1,5 @@
----
-title: "MZXHUB"
-theme: "dark"
-colorFrom: "#0a0a0a"
-colorTo: "#111111"
----
-
 <div align="center">
-  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
+  <img src="https://pin.it/4wZEEId7j" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
 </div>
 
 <!-- TERMINAL TYPING -->
