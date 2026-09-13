@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>@mizcanscripts</h1>
+      <h1>Mizumaru</h1>
     </summary>
   </ul>
 </div>
