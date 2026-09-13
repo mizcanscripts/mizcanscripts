@@ -2,60 +2,72 @@
 All Belong 2 @mizu-dump | Theme By @mizcanscripts
 -->
 
-<!-- WIDE BACKGROUND -->
-<div align="center">
-  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
-</div>
+<!--
+   hi
+   it is i
+   dex4tw
 
-<!-- LINUX TERMINAL TYPING WITH THICK CURSOR -->
+   and i will haunt u
+   booo
+-->
+
+<h1 align="center">😼</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=%24+echo+%22Mizumaru%22;%24+echo+%22mizcanscripts%22;%24+echo+%22Roblox+Developer%22;%24+echo+%22YouTube+%40mizuscripts%22&cursor=%7C" alt="Terminal Typing SVG" />
+   <b>Networking • Reverse Engineering • Security Enthusiast</b><br><br>
+   <a href="https://discord.com/users/1150166058309791835">
+     <img src="https://lanyard.cnrad.dev/api/1150166058309791835?theme=dark" />
+   </a>
 </p>
 
-<!-- BLACK BADGES - All dark themed -->
+---
+
+### 🧠 About Me
+> I <3 reverse engineering, API's & networking  
+> I usually find myself interested in things like obfuscation & authentication  
+
+- 💻 Languages I love: **Python**, **Lua**, **C#**
+- 🧩 Focus areas: **Networking**, **Security**, **API design**
+
+---
+
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mizcanscripts&color=000000&style=flat-square&label=VISITORS&labelColor=000000&color=222222">
-  <a href="https://youtube.com/@mizuscripts">
-    <img src="https://img.shields.io/badge/YOUTUBE-@mizuscripts-000000?style=flat-square&logo=youtube&logoColor=white&labelColor=000000&color=111111">
+  <img src="https://skillicons.dev/icons?i=python,lua,flask,sqlite,cloudflare,github,githubactions,vscode,vscodium,windows" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dex4tw&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Socials
+<p align="center">
+  <a href="https://discord.com/users/1150166058309791835">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
-  <a href="https://github.com/mizcanscripts">
-    <img src="https://img.shields.io/badge/GITHUB-mizcanscripts-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=111111">
+  <a href="https://github.com/dex4tw">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@dexftl">
+    <img src="https://i.ibb.co/RTs4pzDD/avf1o49lz-removebg-preview.png" width="40" />
   </a>
 </p>
 
 ---
 
-**OWNER OF MZZHUB & MZX** · SCRIPTING SINCE 2024 - 2026 ©
-
-> roblox development · modules · scripts · hub developer
-> youtube.com/@mizuscripts
-
----
-
-<div align="center">
-  
-  <!-- GITHUB STATS - Clean and working -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mizcanscripts&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&icon_color=666666&text_color=aaaaaa&border_color=222222&border_radius=12" width="49%">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizcanscripts&theme=dark&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&border=222222&border_radius=12" width="49%">
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizcanscripts&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=aaaaaa&border_color=222222&border_radius=12" width="45%">
-</div>
-
----
-
 <p align="center">
-  <code style="color: #aaa;">LUA</code>  
-  <code style="color: #aaa;">ROBLOX STUDIO</code>  
-  <code style="color: #aaa;">GIT</code>  
-  <code style="color: #aaa;">VSCODE</code>
+   <a href="https://discord.gg/subdomain" target="_blank">
+      <img src="https://i.pinimg.com/736x/2f/36/ab/2f36abab6675201d6846114999d0eaec.jpg" width="500" style="border-radius:12px;" />
+   </a>
 </p>
 
 ---
 
 <p align="center">
-  <span style="color: #555; font-family: monospace;"> **dont give up on something, just keep scripting · keep evolving**</span>
+   <i>"im goated"</i>
 </p>
