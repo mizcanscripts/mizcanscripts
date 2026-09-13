@@ -1,11 +1,3 @@
-<!---
-
-All Belong 2 @mizu-dump
-
-vro get tf out of here dont skid...
-i will haunt u ;3
--->
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/mizcanscripts/MZX/refs/heads/main/images/mzx_logo.png" width="128" />
   <br>
@@ -30,7 +22,7 @@ Focused on building powerful hubs, obfuscators, and bypass tools.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dex4tw&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dex4tw&theme=dracula&hide_border=true" />
 </p>
 
 ### Socials
@@ -60,6 +52,7 @@ Focused on building powerful hubs, obfuscators, and bypass tools.
 </p>
 
 <script>
+// Termux-style typing animation
 const phrases = [
   "I create and share Lua scripts for Roblox.",
   "Focused on building powerful hubs, obfuscators, and bypass tools."
