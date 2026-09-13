@@ -3,7 +3,10 @@
 </div>
 
 <p align="center">
-  **MZXHUB**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
 </p>
 
