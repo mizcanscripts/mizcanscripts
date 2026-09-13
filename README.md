@@ -60,7 +60,6 @@ Focused on building powerful hubs, obfuscators, and bypass tools.
 </p>
 
 <script>
-// Termux-style typing animation
 const phrases = [
   "I create and share Lua scripts for Roblox.",
   "Focused on building powerful hubs, obfuscators, and bypass tools."
