@@ -10,8 +10,8 @@ i will haunt u ;3
 
 <p align="center">
    <b>Networking • Reverse Engineering • Security Enthusiast</b><br><br>
-   <a href="https://discord.com/users/1381844366284423340">
-     <img src="https://lanyard.cnrad.dev/api/1381844366284423340?theme=dark" />
+   <a href="https://discord.com/users/138184436628">
+     <img src="https://lanyard.cnrad.dev/api/138184436628?idleMessage=Hi&theme=dark" />
    </a>
 </p>
 
