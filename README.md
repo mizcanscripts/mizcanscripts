@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Stay+focused.+Stay+humble.+Keep+building.%0AFailure+is+just+data.%0ASmall+steps+every+day.%0AYour+only+limit+is+you." alt="Motivational Quotes" />
 </p>
 
 <!-- BLACK BADGES -->
