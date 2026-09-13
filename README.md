@@ -6,13 +6,6 @@ vro get tf out of here dont skid...
 i will haunt u ;3
 -->
 
----
-title: "MZXHUB"
-theme: "dark"
-colorFrom: "#0a0a0a"
-colorTo: "#111111"
----
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/mizcanscripts/MZX/refs/heads/main/images/mzx_logo.png" width="128" />
   <br>
@@ -35,14 +28,6 @@ colorTo: "#111111"
 
 **💻 Languages:** Python, Lua, C#<br>
 **🧩 Focus:** Networking, Security, API design
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,flask,sqlite,cloudflare,github,githubactions,vscode,vscodium,windows" />
-</p>
 
 ---
 
