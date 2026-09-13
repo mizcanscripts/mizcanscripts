@@ -26,6 +26,7 @@
 
 ---
 
+### My Discord Status 🎱
 <p align="center">
    <a href="https://discord.com/users/1381844366284423340">
      <img src="https://lanyard.cnrad.dev/api/1381844366284423340?idleMessage=I%20Don't%20Know&theme=dark&bg=0d0d0d&border=2b2b2b" />
