@@ -40,5 +40,9 @@
 
 ### About Me
 
-I create and share Lua scripts for Roblox.
-Focused on building powerful hubs, obfuscators, and bypass tools.
+I love creating interesting lua scripts for **MZXHUB**
+I currently focused on my hub, and website & bot hosting and i currently making a Roblox game. Check it out!
+
+<p align="center">
+   <i>"huss valley ra ra ra"</i>
+</p>
