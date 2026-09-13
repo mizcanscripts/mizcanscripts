@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong style="font-size: 2em;">MZXHUB</strong>
+  <span style="font-size: 2em; font-weight: bold;">MZXHUB</span>
 </p>
 
 <p align="center">
