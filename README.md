@@ -11,8 +11,7 @@
 </div>
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Code+like+nobody%27s+watching.+Ship+like+everybody+is.;Discipline+is+choosing+what+you+want+most+over+what+you+want+now.;Every+bug+is+a+lesson+in+disguise.;Consistency+beats+talent+when+talent+gets+comfortable.;Build+in+silence.+Let+the+results+make+the+noise.;You%27re+one+commit+away+from+a+breakthrough.;Dream+big.+Start+small.+Move+now.;The+best+time+to+start+was+yesterday.+The+next+best+is+right+now.;Stay+hungry.+Stay+humble.+Stay+building.;Your+only+limit+is+the+one+you+accept.&repeat=true" alt="Motivational Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Discipline+is+choosing+what+you+want+most+over+what+you+want+now.;Consistency+beats+talent+when+talent+gets+comfortable.;Build+in+silence.+Let+results+make+the+noise.;You%27re+one+decision+away+from+a+breakthrough.;Dream+big.+Start+small.+Move+now.;Stay+hungry.+Stay+humble.+Stay+building.;Your+only+limit+is+the+one+you+accept.&repeat=true" alt="Motivational Quotes" />
 </p>
 
 <p align="center">
