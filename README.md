@@ -1,90 +1,37 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/mizcanscripts/MZX/refs/heads/main/images/mzx_logo.png" width="128" />
-  <br>
-  MZXHUB
-</h1>
+---
+title: "MZXHUB"
+theme: "dark"
+colorFrom: "#0a0a0a"
+colorTo: "#111111"
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/3H3X1xWFcSsAAAA1/black-and-white-aesthetic.webp" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
+</div>
+
+<!-- TERMINAL TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
+</p>
+
+<!-- BLACK BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mizcanscripts&color=000000&style=flat-square&label=VISITORS&labelColor=000000&color=222222">
+  <a href="https://youtube.com/@mizuscripts">
+    <img src="https://img.shields.io/badge/YOUTUBE-@mizuscripts-000000?style=flat-square&logo=youtube&logoColor=white&labelColor=000000&color=111111">
+  </a>
+  <a href="https://github.com/mizcanscripts">
+    <img src="https://img.shields.io/badge/GITHUB-mizcanscripts-000000?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=111111">
+  </a>
+</p>
+
+---
 
 **MZXHUB**  
 The Ultimate Roblox Script Hub. Better Than Anything.
 
-<p align="center">
-  <b>Lua Coder • Script Developer</b><br>
-  <a href="https://discord.com/users/1381844366284423340">
-    <img src="https://lanyard.cnrad.dev/api/1381844366284423340?idleMessage=Hi&theme=dark&size=128" width="128" />
-  </a>
-</p>
-
 ### About Me
 
+```text
 I create and share Lua scripts for Roblox.
 Focused on building powerful hubs, obfuscators, and bypass tools.
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dex4tw&theme=dracula&hide_border=true" />
-</p>
-
-### Socials
-
-<p align="center">
-  <a href="https://discord.com/users/1381844366284423340" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" />
-  </a>
-  <a href="https://github.com/mizcanscripts" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@mizuscripts" target="_blank">
-    <img src="https://i.ibb.co/RTs4pzDD/avf1o49lz-removebg-preview.png" width="40" />
-  </a>
-</p>
-
-### Community
-
-<p align="center">
-  <a href="https://discord.gg/subdomain" target="_blank">
-    <img src="https://i.pinimg.com/736x/2f/36/ab/2f36abab6675201d6846114999d0eaec.jpg" width="520" style="border-radius:12px;" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"im goated"</i>
-</p>
-
-<script>
-// Termux-style typing animation
-const phrases = [
-  "I create and share Lua scripts for Roblox.",
-  "Focused on building powerful hubs, obfuscators, and bypass tools."
-];
-
-let i = 0, j = 0, deleting = false;
-const textEl = document.createElement('div');
-textEl.style.cssText = 'font-family:monospace;font-size:18px;color:#ddd;white-space:pre;margin:20px 0;';
-document.querySelectorAll('p')[1].insertAdjacentElement('afterend', textEl);
-
-function type() {
-  const phrase = phrases[i];
-  if (!deleting) {
-    textEl.textContent = phrase.slice(0, j);
-    if (j === phrase.length) {
-      deleting = true;
-      setTimeout(type, 2200);
-      return;
-    }
-    j++;
-    setTimeout(type, 45);
-  } else {
-    textEl.textContent = phrase.slice(0, j);
-    if (j === 0) {
-      deleting = false;
-      i = (i + 1) % phrases.length;
-      setTimeout(type, 400);
-      return;
-    }
-    j--;
-    setTimeout(type, 22);
-  }
-}
-type();
-</script>
