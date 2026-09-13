@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Stay+focused.+Stay+humble.+Keep+building.%0AFailure+is+just+data.%0ASmall+steps+every+day.%0AYour+only+limit+is+you.&repeat=true" alt="Motivational Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Stay+focused.+Stay+humble.+Keep+building.;Failure+is+just+data.;Small+steps+every+day.;Your+only+limit+is+you.&repeat=true" alt="Motivational Quotes" />
 </p>
 
 <p align="center">
