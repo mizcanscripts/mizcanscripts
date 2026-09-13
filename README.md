@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://pin.it/4wZEEId7j" width="100%" height="400" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1102044971363298083" width="100%" height="400" scrolling="no" style="object-fit: cover; filter: brightness(0.5) contrast(1.3); border-radius: 20px 20px 0 0;"></iframe>
 </div>
 
-<!-- TERMINAL TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=MZXHUB+The+Ultimate+Roblox+Script+Hub.%0AMZX+OWNER+%7C+Lua+Script+Developer%0AYouTube+%40mizuscripts" alt="Terminal Typing SVG" />
 </p>
