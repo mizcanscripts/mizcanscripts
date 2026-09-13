@@ -1,3 +1,18 @@
+<!--
+   oh sh*t a skid oh men
+   hi :3
+
+   im mizumaru 
+   wsp twin
+
+   i love u <3
+
+   pls go out now
+
+
+   ill hunt u rawr
+-->
+
 <div align="center">
   <img src="https://i.pinimg.com/736x/01/f6/76/01f6762b8642bd39a18c4ac3b7aa3b77.jpg" width="100%" height="400" style="object-fit: cover; filter: brightness(1.1) contrast(1.3); border-radius: 20px 20px 0 0; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
 </div>
@@ -11,7 +26,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Discipline+is+choosing+what+you+want+most+over+what+you+want+now.;Consistency+beats+talent+when+talent+gets+comfortable.;Build+in+silence.+Let+results+make+the+noise.;You%27re+one+decision+away+from+a+breakthrough.;Dream+big.+Start+small.+Move+now.;Stay+hungry.+Stay+humble.+Stay+building.;Your+only+limit+is+the+one+you+accept.&repeat=true" alt="Motivational Quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Discipline+is+choosing+what+you+want+most+over.;Consistency+beats+talent+when+talent+gets+comfortable.;Build+in+silence.+Let+results+make+the+noise.;You%27re+one+decision+away+from+a+breakthrough.;Dream+big.+Start+small.+Move+now.;Stay+hungry.+Stay+humble.+Stay+building.;Your+only+limit+is+the+one+you+accept.&repeat=true" alt="Motivational Quotes" />
 </p>
 
 <p align="center">
