@@ -26,6 +26,11 @@
 
 ---
 
+<p align="center">
+   <a href="https://discord.com/users/1381844366284423340">
+     <img src="https://lanyard.cnrad.dev/api/1381844366284423340?theme=dark&bg=0d0d0d&border=2b2b2b" />
+   </a>
+</p>
 
 ### My GitHub Stats 📊
 <p align="center">
