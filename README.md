@@ -1,14 +1,9 @@
 <!---
-All Belong 2 @mizu-dump | Theme By @mizcanscripts
--->
 
-<!--
-   hi
-   it is i
-   dex4tw
+All Belong 2 @mizu-dump
 
-   and i will haunt u
-   booo
+vro get tf out of here dont skid...
+i will haunt u ;3
 -->
 
 <h1 align="center">😼</h1>
