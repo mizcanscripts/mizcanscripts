@@ -13,21 +13,24 @@ i will haunt u ;3
 </h1>
 
 <p align="center">
-  <b>Networking • Reverse Engineering • Security Enthasiast</b><br>
+  <b>Lua Coder • Script Developer</b><br>
   <a href="https://discord.com/users/1381844366284423340">
     <img src="https://lanyard.cnrad.dev/api/1381844366284423340?idleMessage=Hi&theme=dark&size=128" width="128" />
   </a>
 </p>
 
+**MZXHUB**  
+The Ultimate Roblox Script Hub. Better Than Anything.
+
 ---
 
 ### About Me
 
-> I love reverse engineering, API's & networking.<br>
-> I usually find myself interested in things like **obfuscation** & **authentication**.
+> I create and share Lua scripts for Roblox.<br>
+> Focused on building powerful hubs, obfuscators, and bypass tools.
 
-**💻 Languages:** Python, Lua, C#<br>
-**🧩 Focus:** Networking, Security, API design
+**💻 Languages:** Lua (Roblox Luau)<br>
+**🧩 Focus:** Script development, hubs, obfuscation, and delivery systems
 
 ---
 
