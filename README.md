@@ -51,7 +51,7 @@
 
 ### My GitHub Stats 📊
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dex4tw&hide_border=true&background=000000&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizcanscripts&hide_border=true&background=000000&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
 
 ### About Me
