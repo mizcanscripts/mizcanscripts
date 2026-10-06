@@ -62,4 +62,3 @@ I love creating interesting lua scripts for **MZXHUB** and I currently working o
    <i>"huss valley ra ra ra"</i>
 </p>
 
-[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-MZXHUB-211929)](https://scriptblox.com/script/Universal-Script-MZXHUB-211929)
