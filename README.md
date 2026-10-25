@@ -45,7 +45,7 @@
 
 # Hello There! :D
 
-[![Profile Views](https://count.getloli.com/@mizcanscripts?theme=booru-r6gdrawfriends&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/afkar-gg)
+[![Profile Views](https://count.getloli.com/@mizcanscripts?theme=booru-r6gdrawfriends)](https://github.com/mizcanscripts)
 
 </div>
 
