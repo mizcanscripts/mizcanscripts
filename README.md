@@ -45,7 +45,7 @@
 
 # Hello There! :D
 
-[![Profile Views](https://count.getloli.com/@mizcanscripts?theme=booru-r6gdrawfriends)](https://github.com/mizcanscripts)
+[![Profile Views](https://count.getloli.com/@mizcanscripts?theme=rule34)](https://github.com/mizcanscripts)
 
 </div>
 
