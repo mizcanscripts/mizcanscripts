@@ -41,6 +41,16 @@
 
 ---
 
+<div align="center">
+
+# Hello There! :D
+
+[![Profile Views](https://count.getloli.com/@mizcanscripts?theme=booru-r6gdrawfriends&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/afkar-gg)
+
+</div>
+
+---
+
 
 ### My Discord Status 🎱
 <p align="center">
@@ -56,7 +66,7 @@
 
 ### About Me
 
-I love creating interesting lua scripts for **MZXHUB** and I currently working on my hub, and i managed my website & bot hosting and i currently making a Roblox game. Check it out!
+I love creating interesting luau scripts for **MZXHUB** and I currently working on my hub, and i always managed my website & bot hosting and i am currently making a Roblox game. Check it out!
 
 <p align="center">
    <i>"huss valley ra ra ra"</i>
